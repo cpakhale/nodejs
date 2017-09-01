@@ -26,7 +26,7 @@ describe("SAMPLE unit test",function(){
 });
 
 
-describe("SAMPLE  next unit test",function(){
+describe("SAMPLE  next unit test part 2",function(){
 
   // #1 should return home page
   it("should return home page",function(done){
